@@ -11,8 +11,6 @@
 
 # Secure Code Game
 
-📣 **SEASON 2 JUST DROPPED! READY TO PLAY?** 📣
-
 _A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code. At the same time, this is an open source project that welcomes your [contributions](https://github.com/skills/secure-code-game/blob/main/CONTRIBUTING.md) as a way to give back to the community._
 
 </header>
@@ -67,7 +65,7 @@ All levels are configured to run instantly with GitHub Codespaces. If you chose 
 
 Optional: We recommend these free-of-charge additional extensions, but we haven't pre-installed them for you:
 
-1. `GitHub.copilot-chat` to receive AI-generated code explanations.
+1. `github.copilot-chat` to receive AI-generated code explanations.
 1. `alexcvzz.vscode-sqlite` to visualize the SQL database created in Season-1/Level-4 and the effects of our exploits on its content.
 
 If you need assistance, don't hesitate to ask for help in our [GitHub Discussions](https://github.com/skills/secure-code-game/discussions) or on our [Slack](https://gh.io/securitylabslack), at the [#secure-code-game](https://ghsecuritylab.slack.com/archives/C05DH0PSBEZ) channel.
@@ -168,7 +166,7 @@ npm install --prefix Season-2/Level-4/ Season-2/Level-4/ && npm install --global
 
 We recommend these free-of-charge additional extensions:
 
-1. `GitHub.copilot-chat` to receive AI-generated code explanations.
+1. `github.copilot-chat` to receive AI-generated code explanations.
 1. `alexcvzz.vscode-sqlite` to visualize the SQL database created and the effects of our exploits on its content.
 
 For more information about cloning repositories, see "[Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)."
