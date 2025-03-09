@@ -26,7 +26,7 @@ _A GitHub Security Lab initiative, providing an in-repo learning experience, whe
 - **Who is this for**: Developers, students.
 - **What you'll learn**: How to spot and fix vulnerable patterns in real-world code, build security into your workflows, and understand security alerts generated against your code.
 - **What you'll build**: You will develop fixes on functional but vulnerable code.
-- **Prerequisites**: For the first season, you will need some knowledge of `python3` for most levels and `C` for Level 2. For the second season, you will need some knowledge of `GitHub Actions` for level 1, `go` for level 2, `python3` for level 3, and `javascript` for levels 4 and 5.
+- **Prerequisites**: For the first season, you will need some knowledge of `python3` for most levels and `C` for Level 2. For the second season, you will need some knowledge of `GitHub Actions` for level 1, `go` for level 2, `python3` for level 4, and `javascript` for levels 3 and 5.
 - **How long**: Each season is five levels long and takes 2-9 hours to complete. The complete course has 2 seasons.
 
 ### How to start this course
@@ -159,7 +159,7 @@ Adapt the command to the package manager you have chosen if it's not homebrew.
 3. The `npm` packages needed are specified in `package.json` and `package-lock.json`. Navigate to the `secure-code-game` repository and install them by running:
 
 ```bash
-npm install --prefix Season-2/Level-4/ Season-2/Level-4/ && npm install --global mocha
+npm install --prefix Season-2/Level-4/ && npm install --global mocha
 ```
 
 4. At this point, you can get started with Season-1 or Season-2 by navigating on the respective folders and reading the `README.md` file.
